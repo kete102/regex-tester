@@ -58,10 +58,10 @@ src/
 
 ## How to Use
 
-Enter a Regular Expression (e.g., \b(dev|developer|frontend)\b) in the input field.
-Add any flags (g, i, m) using the checkboxes.
-Input the text to test the RegEx in the provided text area.
-Matches will be highlighted in the text and the total number of matches will be displayed.
+1. Enter a Regular Expression (e.g., \b(dev|developer|frontend)\b) in the input field.
+2. Add any flags (g, i, m) using the checkboxes.
+3. Input the text to test the RegEx in the provided text area.
+4. Matches will be highlighted in the text and the total number of matches will be displayed.
 
 ## License
 
