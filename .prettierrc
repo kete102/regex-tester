@@ -7,5 +7,5 @@
   "singleQuote": true,
   "semi": false,
   "singleAttributePerLine": true,
-  "plugins": ["prettier-plugin-astro"]
+  "plugins": ["prettier-plugin-astro", "prettier-plugin-organize-imports"]
 }
