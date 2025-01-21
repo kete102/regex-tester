@@ -1,4 +1,4 @@
-# Regex Tester
+# #️⃣ Regex Tester
 
 A simple web application to test Regular Expressions (RegEx) with real-time feedback. Built using React, TypeScript, Zustand for state management, and TailwindCSS for styling.
 
@@ -10,14 +10,14 @@ A simple web application to test Regular Expressions (RegEx) with real-time feed
 - Real-time highlighting of matches in the text.
 - Displays the total number of matches.
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - React with TypeScript
 - Zustand for state management
 - TailwindCSS for styling
 - Vite as the build tool
 
-## How to Run Locally
+## 🔑 How to Run Locally
 
 1. Clone the repository:
 
@@ -40,33 +40,17 @@ npm run dev
 
 **Open the app in your browser at http://localhost:5173.**
 
-## Project Structure
-
-```bash
-src/
-├── components/
-│ ├── RegexInput.tsx
-│ ├── TextInput.tsx
-│ ├── MatchResults.tsx
-├── store/
-│ └── regexStore.ts
-├── App.tsx
-├── main.tsx
-└── index.css
-
-```
-
-## How to Use
+## ❓ How to Use
 
 1. Enter a Regular Expression (e.g., \b(dev|developer|frontend)\b) in the input field.
 2. Add any flags (g, i, m) using the checkboxes.
 3. Input the text to test the RegEx in the provided text area.
 4. Matches will be highlighted in the text and the total number of matches will be displayed.
 
-## License
+## 🔶 License
 
 This project is open-source and available under the MIT License.
 
-## Contributions
+## 🔷 Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
