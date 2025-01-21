@@ -1,0 +1,11 @@
+{
+  "useTabs": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "semi": false,
+  "singleAttributePerLine": true,
+  "plugins": ["prettier-plugin-astro"]
+}
